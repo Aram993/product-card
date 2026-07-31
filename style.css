@@ -1,0 +1,39 @@
+* {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #515076;
+}
+
+.product_for {
+    color: #A5A3B9;
+}
+
+.product_name {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.product_description {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.product_price {
+    font-size: 20px;
+}
+
+.price_bold {
+    font-weight: 700;
+}
+
+.card {
+    padding: 25px;
+    margin: 45px;
+    background-color: rgba(81, 80, 118, 0.1);
+    list-style: none;
+    width: 340px;
+    height: 543px;
+}
